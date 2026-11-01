@@ -1,16 +1,15 @@
-## Hi there 👋
+# 陈凯文
 
-<!--
-**kevian-natucmcpb/kevian-natucmcpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infra tinkerer — proxy chains, agent fleets, memory systems. I run my own stack instead of paying for SaaS.
 
-Here are some ideas to get you started:
+Currently deep in:
+- **Self-hosted agent orchestration** — relay DM + firstmate workers, no cloud
+- **Secret management** — sops/age → secretspec → kdbx SSOT
+- **Multi-bot eval** — what survives a 1.5 GB VPS and what doesn't
+- **Proxy chains** — mihomo + EasyTier + the occasional TLS fingerprinting nightmare
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Notable accounts I follow: [@bittersweet_refx](https://x.com/bittersweet_refx) — anonymous builder, clean code, zero fluff.
+
+---
+
+*Profile structure inspired by [@YisuiDenghua](https://github.com/YisuiDenghua) — used with permission, adapted not copied.*
